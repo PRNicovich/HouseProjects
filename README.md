@@ -3,7 +3,7 @@ Around-the-house woodworking and design projects.
 
 
 ## Folding Table
-Work table with collapse-able legs. Light weight and reasonable size for various assembly and light construction projects.
+Work table with collapse-able legs. Light weight and reasonable size for various assembly and light construction projects.  Inspiration from https://www.thedesignconfidential.com/2011/05/free-woodworking-plans-to-build-a-fabulous-folding-table/.  Some alterations to hopefully have a stronger and stiffer construction, though balance between expanded height and required length is different.  
 
 Straightforward 1x construction with 1/2" ply top.  Makes a lightweight and sturdy table that's not too difficult to carry.  The legs fold under the top for storage.  
 
